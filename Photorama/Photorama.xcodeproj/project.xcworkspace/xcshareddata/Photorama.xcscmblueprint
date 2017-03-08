@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA49FC4311246C80625DCBC94F59E813A6531E41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : 9223372036854775807,
+    "EA49FC4311246C80625DCBC94F59E813A6531E41" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "13FC99F0-D6ED-49A7-9592-E7B96E0D4F42",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : "",
+    "EA49FC4311246C80625DCBC94F59E813A6531E41" : "Photorama_20-24\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Photorama",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Photorama\/Photorama.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/ToucherTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/PhotoramaApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA49FC4311246C80625DCBC94F59E813A6531E41"
+    }
+  ]
+}
